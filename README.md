@@ -43,3 +43,16 @@ The data is collected from the Incubator Hub Organization which includes the key
 - Attrition Count by Gender: This is to determine the number/percentage of male and female who have existed the organization.
 - Average Age: The average age of employees in the organization. 
 
+
+### Data Visuals
+This shows the visual representation of our analysis
+![Attrition by age range](https://github.com/user-attachments/assets/68950110-33c3-4693-9098-32f09adee265)
+
+
+
+![Attrition by Department](https://github.com/user-attachments/assets/1c4352e7-a54c-4de4-ba99-50f81c1266a4)
+
+
+
+![Screenshot 2024-10-25 162712](https://github.com/user-attachments/assets/59bdc96a-d3bf-4953-b64d-6dc3be504b5a)
+
