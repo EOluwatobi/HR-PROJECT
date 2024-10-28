@@ -24,3 +24,14 @@ The data is collected from the Incubator Hub Organization which includes the key
 - Marital Status: The marital status of each employee in the organization which is categorized as either Married, Single or Divorced.
 - Education: The educational qualification of an employee.
 - Job level: The hierarchical level an employee belongs to.
+
+
+  ### Key Metrics
+- Employee Count: Determine the total number of employees in the organization before exiting the organization.
+- Attrition Count: The number of employees who has left the organization.
+- Current employee: Calculate the total number of employees currently working in the organization. 
+- Attrition Rate: The percentage rate of employees who has exited the organization which is the total number of employees by the attrition count.
+- Attrition Count by Department: This is to determine the number of employees who has exited the organization in each department.
+- Attrition Count by Gender: This is to determine the number/percentage of male and female who have existed the organization.
+- Average Age: The average age of employees in the organization. 
+
