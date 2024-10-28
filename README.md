@@ -1,4 +1,4 @@
- HR-PROJECT
+ ## HR-PROJECT
 
 ### Project Title: Incubator Hub HR Data Analysis
 
@@ -19,7 +19,7 @@ In Powerbi, DAX functions (calculated columns and measures) were implemented to 
 
 
 ### Data Source
-The data is collected from the Incubator Hub Organization which includes the key columns. [download here]( [HR Data.xlsx](https://github.com/user-attachments/files/17544237/HR.Data.xlsx)
+The data is collected from the Incubator Hub Organization which includes the key columns. [HR Data.xlsx](https://github.com/user-attachments/files/17544237/HR.Data.xlsx)
 
 - Attrition: This validates whether an employee has left the organization or not.
 - Business travel: This shows if an employee rarely or frequently travels.
