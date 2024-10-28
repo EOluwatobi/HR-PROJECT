@@ -46,13 +46,27 @@ The data is collected from the Incubator Hub Organization which includes the key
 
 ### Data Visuals
 This shows the visual representation of our analysis
+
+![Screenshot 2024-10-25 162712](https://github.com/user-attachments/assets/59bdc96a-d3bf-4953-b64d-6dc3be504b5a)
+
+
+Attrition by age
 ![Attrition by age range](https://github.com/user-attachments/assets/68950110-33c3-4693-9098-32f09adee265)
 
 
-
+Attrition count by department
 ![Attrition by Department](https://github.com/user-attachments/assets/1c4352e7-a54c-4de4-ba99-50f81c1266a4)
 
 
+Attrition by gender
+![attrition count by gender](https://github.com/user-attachments/assets/2d564c00-3d46-4859-b91e-8d356897d2fa)
 
-![Screenshot 2024-10-25 162712](https://github.com/user-attachments/assets/59bdc96a-d3bf-4953-b64d-6dc3be504b5a)
+
+Attrition by Education Field
+![Attrition by Education Field](https://github.com/user-attachments/assets/3431bbbe-7776-4044-b6ca-bb66ae7b6b52)
+
+
+
+
+
 
