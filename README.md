@@ -1,4 +1,4 @@
-# HR-PROJECT
+[Lita Capstone Sales.csv](https://github.com/user-attachments/files/17544124/Lita.Capstone.Sales.csv)# HR-PROJECT
 
 ### Project Title: Incubator Hub HR Data Analysis
 
@@ -11,8 +11,16 @@ Having undergone a 3-month training with The Incubator Hub on data analysis, thi
 The purpose of this study is to determine the attrition rate of employees in the organization, discuss the possible reason for this and recommend solution to bring to its barest minimal the attrition rate of the employees in the organization.
 
 
+### Tools and Functions
+- The tools used in the project are: 
+- Microsoft Excel- which houses our data and used for cleaning data.
+- Powerbi-which is used building interactive dashboard and visualizations.
+In Powerbi, DAX functions (calculated columns and measures) were implemented to perform dynamic aggregations to provide more insights to the data.
+
+
 ### Data Source
-The data is collected from the Incubator Hub Organization which includes the key columns.
+The data is collected from the Incubator Hub Organization which includes the key columns.[Uploading Lita Capstone Sales.csv…]()
+
 - Attrition: This validates whether an employee has left the organization or not.
 - Business travel: This shows if an employee rarely or frequently travels.
 - CF_age band: This shows the age range of employees within the organization.
