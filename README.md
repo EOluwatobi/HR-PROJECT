@@ -19,7 +19,8 @@ In Powerbi, DAX functions (calculated columns and measures) were implemented to 
 
 
 ### Data Source
-The data is collected from the Incubator Hub Organization which includes the key columns. 
+The data is collected from the Incubator Hub Organization which includes the key columns. [LITA HR.Data.xlsx](https://github.com/user-attachments/files/17602644/LITA.HR.Data.xlsx)
+
 
 - Attrition: This validates whether an employee has left the organization or not.
 - Business travel: This shows if an employee rarely or frequently travels.
@@ -32,6 +33,7 @@ The data is collected from the Incubator Hub Organization which includes the key
 - Marital Status: The marital status of each employee in the organization which is categorized as either Married, Single or Divorced.
 - Education: The educational qualification of an employee.
 - Job level: The hierarchical level an employee belongs to.
+- Job role: The job specification of employees in the organization
 
 
   ### Key Metrics
@@ -41,12 +43,15 @@ The data is collected from the Incubator Hub Organization which includes the key
 - Attrition Rate: The percentage rate of employees who has exited the organization which is the total number of employees by the attrition count.
 - Attrition Count by Department: This is to determine the number of employees who has exited the organization in each department.
 - Attrition Count by Gender: This is to determine the number/percentage of male and female who have existed the organization.
-- Average Age: The average age of employees in the organization. 
+- Average Age: The average age of employees in the organization.
+- Attrition Count by job role: This shows the job role with the highest number of attrition.
+
 
 
 ### Data Visuals
-This shows the visual representation of our analysis
+This shows the visual representation of our analysis:
 
+Analysis dashboard
 ![Screenshot 2024-10-25 162712](https://github.com/user-attachments/assets/59bdc96a-d3bf-4953-b64d-6dc3be504b5a)
 
 
@@ -65,6 +70,50 @@ Attrition by gender
 Attrition by Education Field
 ![Attrition by Education Field](https://github.com/user-attachments/assets/3431bbbe-7776-4044-b6ca-bb66ae7b6b52)
 
+
+Satisfactory analysis of employee job role
+![Job role](https://github.com/user-attachments/assets/442cadd8-278a-4fdd-afc4-3457d6c694c4)
+
+
+### Findings and conclusion
+- Attrition count: The total number of employee count is 1470, out of which 237 is the attrition count.
+- Attrition rate: There is 16% increase of attrition rate in the organization.
+- Attrition by department: From the total number of attrition count, the R&D department has the highest number of attrition count of 133 with the percentage as 56.12% 
+This could suggest potential issues such as work pressure, job dissatisfaction and advancement, competitive offer elsewhere or lack of promotion and career growth.
+
+- Attrition by age: Across all 3 departments in the organization, the age range of 25-34 has the highest number of attrition. From the R&D, 65 employees exited the organization, 39 from the Sales department and 8 from HR department.
+This could suggest that employees within this age range are exploring other career paths and better opportunities .
+
+- Attrition by gender: The male gender has the highest attrition rate with 63.29% while the female gender has 36.71%.
+ This suggests issues relating to work-life balance or advancement opportunities.
+
+Attrition by Educational Field: 
+
+- From our findings, the job role of the laboratory Technicians has the highest number of attrition counts amongst others with a total number of 62 employees exiting the organization. It was deduced that 20 of them expressed great dissastisfaction of their role.
+
+### Impacts
+ The possible impacts of the attrition rate across all departments to the organization at large are:
+ 
+1. Low income and productivity: The massive exit of employees will result to low income for the organization. For  are vast in knowledge will result to low income.
+   
+2. Loss of knowledge and Expertise.
+   
+3. High cost of recruiting new employees: Adeverts and recruiting guildlines for new employees will have to be published to fill in the void of the exited ones will cost the organization some money.
+   
+4.Training and onboarding cost: Seminars and orientation will have to be organized for for the newly employeed personnels to train them for the job which will reqiure the services of experts and this will have a great impact on the finances of the organization. 
+
+5. Low engagement and morale among remaining employees: Employees who sees their coleagues leaving the organization will not be motivated to stay. They will also in earnest plan their exit.
+   
+6. Reduce innovation and growth.
+
+
+### Recommendations
+Certain strategies can be put in place to reduce the attrition rate of employees within the organization;
+- Regular review of salary to ensure competitive pay.
+- Offer Training sessions and workshops for career growth.
+- Organize programs to improve team bonding and team spirit.
+- Quarterly survey for employees on organizational performance.
+- Regular incentives and bonus for employees.
 
 
 
